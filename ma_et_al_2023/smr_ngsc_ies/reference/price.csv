@@ -1,0 +1,5 @@
+,unit,instant,min,max
+h2,$/kg,1.5,1,2
+power,$/Mwh,125.0,60,300
+co2,$/tonne,30.0,30,60
+ng,$/MMBtu,4.42,4,7
